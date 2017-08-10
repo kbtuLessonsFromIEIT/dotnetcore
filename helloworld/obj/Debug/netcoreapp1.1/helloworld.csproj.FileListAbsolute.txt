@@ -1,0 +1,8 @@
+D:\kbtulessons\dotnetcore\helloworld\bin\Debug\netcoreapp1.1\helloworld.deps.json
+D:\kbtulessons\dotnetcore\helloworld\bin\Debug\netcoreapp1.1\helloworld.runtimeconfig.json
+D:\kbtulessons\dotnetcore\helloworld\bin\Debug\netcoreapp1.1\helloworld.runtimeconfig.dev.json
+D:\kbtulessons\dotnetcore\helloworld\bin\Debug\netcoreapp1.1\helloworld.dll
+D:\kbtulessons\dotnetcore\helloworld\bin\Debug\netcoreapp1.1\helloworld.pdb
+D:\kbtulessons\dotnetcore\helloworld\obj\Debug\netcoreapp1.1\helloworld.AssemblyInfo.cs
+D:\kbtulessons\dotnetcore\helloworld\obj\Debug\netcoreapp1.1\helloworld.dll
+D:\kbtulessons\dotnetcore\helloworld\obj\Debug\netcoreapp1.1\helloworld.pdb
