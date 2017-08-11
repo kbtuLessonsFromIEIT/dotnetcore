@@ -1,0 +1,8 @@
+D:\kbtulessons\dotnetcore\TaskManager\bin\Debug\netcoreapp1.1\TaskManager.deps.json
+D:\kbtulessons\dotnetcore\TaskManager\bin\Debug\netcoreapp1.1\TaskManager.runtimeconfig.json
+D:\kbtulessons\dotnetcore\TaskManager\bin\Debug\netcoreapp1.1\TaskManager.runtimeconfig.dev.json
+D:\kbtulessons\dotnetcore\TaskManager\obj\Debug\netcoreapp1.1\TaskManager.AssemblyInfo.cs
+D:\kbtulessons\dotnetcore\TaskManager\bin\Debug\netcoreapp1.1\TaskManager.dll
+D:\kbtulessons\dotnetcore\TaskManager\bin\Debug\netcoreapp1.1\TaskManager.pdb
+D:\kbtulessons\dotnetcore\TaskManager\obj\Debug\netcoreapp1.1\TaskManager.dll
+D:\kbtulessons\dotnetcore\TaskManager\obj\Debug\netcoreapp1.1\TaskManager.pdb
