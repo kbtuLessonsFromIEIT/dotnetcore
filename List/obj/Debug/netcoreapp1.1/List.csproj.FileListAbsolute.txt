@@ -1,0 +1,8 @@
+D:\kbtulessons\dotnetcore\List\bin\Debug\netcoreapp1.1\List.deps.json
+D:\kbtulessons\dotnetcore\List\bin\Debug\netcoreapp1.1\List.runtimeconfig.json
+D:\kbtulessons\dotnetcore\List\bin\Debug\netcoreapp1.1\List.runtimeconfig.dev.json
+D:\kbtulessons\dotnetcore\List\obj\Debug\netcoreapp1.1\List.AssemblyInfo.cs
+D:\kbtulessons\dotnetcore\List\bin\Debug\netcoreapp1.1\List.dll
+D:\kbtulessons\dotnetcore\List\bin\Debug\netcoreapp1.1\List.pdb
+D:\kbtulessons\dotnetcore\List\obj\Debug\netcoreapp1.1\List.dll
+D:\kbtulessons\dotnetcore\List\obj\Debug\netcoreapp1.1\List.pdb

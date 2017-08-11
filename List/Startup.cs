@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using List.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -29,6 +31,12 @@ namespace List
         {
             // Add framework services.
             services.AddMvc();
+
+            //services.AddDbContext<ApplicationDBContext>(options =>
+            //    options.UseSqlite("Data Source=MvcMovie.db"));
+
+            services.AddDbContext<ApplicationDBContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("ApplicationDbContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -55,6 +63,8 @@ namespace List
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            DBInitialize.EnsureCreated(app.ApplicationServices);
         }
     }
 }
